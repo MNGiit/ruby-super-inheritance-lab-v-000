@@ -1,9 +1,11 @@
 class Student
   def hello
-    "Hey there! I'm so excited to learn stuff."
+    string = "Hey there! I'm so excited to learn stuff."
+    string
   end
   
   def raise_hand
-    "Pick me!"
+    string = "Pick me!"
+    string
   end
 end
